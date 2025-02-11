@@ -4,8 +4,8 @@
 
 | Segunda  | Terça | Quarta | Quinta | Sexta |
 |:---:|:---:|:---:|:---:|:---:|
-|DS|PW II|PW II|PAM I|BD II|
-|`Emerson`|`Davi`|`Davi`|`Faberson`|`Zerbetto`|
+|ALG|ARQ E ORG DE COMP|FUND ADM GERAL|ARQ E ORG DE COMP|COM E EXP|
+|`Patricia`|`Luiz Felipe`|`Luciano`|`Luiz Felipe`|`Tamires`|
 |-|-|-|-|-|
-|APS|DS|PAM I|SE|P TCC|
-|`Zerbetto`|`Emerson`|`Faberson`|`Emerson`|`Malu`|
+|ALG|Mat Discreta|Mat Discreta|COM E EXP|INGLES I|
+|`Patricia`|`Modesto`|`Modesto`|`Tamires`|`Camila`|
